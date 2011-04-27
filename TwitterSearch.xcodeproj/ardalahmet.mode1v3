@@ -313,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TwitterSearchViewController.h</string>
+								<string>TwitterSearchViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,17 +321,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TwitterSearchViewController.h</string>
+										<string>TwitterSearchViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>5926AED21368CBF7001BA6E3</string>
+										<string>5926AED61368D361001BA6E3</string>
 										<key>history</key>
 										<array>
 											<string>59D5C817136630C300760A59</string>
 											<string>5926AEBA1368C980001BA6E3</string>
+											<string>5926AED51368D361001BA6E3</string>
 											<string>5926AED11368CBF7001BA6E3</string>
-											<string>5926AEC41368CAFD001BA6E3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
